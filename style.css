@@ -74,7 +74,7 @@
         overflow: hidden;
         position: relative;
         z-index: 1;
-        min-height: 600px;
+        min-height: 700px;
         height: 100vh;
         background-image: url(SVG/bg-dulce.svg);
         background-position: 0%;
@@ -221,7 +221,7 @@
         width: 100%;
         justify-content: space-evenly;
         position: relative;
-        min-height: 800px;
+        min-height: 600px;
         overflow: hidden;
     }
     
