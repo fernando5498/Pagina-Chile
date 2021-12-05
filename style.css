@@ -221,7 +221,7 @@
         width: 100%;
         justify-content: space-evenly;
         position: relative;
-        min-height: 600px;
+        min-height: 800px;
         overflow: hidden;
     }
     
@@ -311,5 +311,8 @@
         }
         .contenedor img {
             min-width: 200px;
+        }
+        footer {
+            min-height: 600px;
         }
     }
